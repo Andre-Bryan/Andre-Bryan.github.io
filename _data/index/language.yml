@@ -5,10 +5,10 @@
 # - locale: zh
   # flag: /static/assets/img/flags/China.png
    - locale: en
-  flag: /static/assets/img/flags/Jamaica.png
+     flag: /static/assets/img/flags/Jamaica.png
 
  - locale: en
-  flag: /static/assets/img/flags/United-States.png
+   flag: /static/assets/img/flags/United-States.png
    
    - locale: en
-  flag: /static/assets/img/flags/Canada.png
+     flag: /static/assets/img/flags/Canada.png
