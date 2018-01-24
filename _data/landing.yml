@@ -34,4 +34,3 @@
 - id: links
   i18n: nav.link
   name: Resume
-  tpl: links.html
