@@ -33,6 +33,5 @@
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Resume
   tpl: links.html
-  css: contact
