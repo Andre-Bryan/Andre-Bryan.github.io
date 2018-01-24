@@ -31,7 +31,8 @@
   page: blog/
   css: testimonials navy-section
 
-- id: Resume
-  i18n: nav.link
-  name: Resume
+- id: Contact
+  i18n: nav.contact
+  name: Contact
   tpl: links.html
+  css: contant
