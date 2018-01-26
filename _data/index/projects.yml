@@ -1,11 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-#- name: Jalpc
-#  i18n: jalpc
-#  gh_user: jarrekk
-#  img: /static/assets/img/landing/jekyll.png
-#  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Jalpc
+  i18n: jalpc
+  gh_user: Andre-Bryan
+  img: /static/assets/img/landing/jekyll.png
+  desc: 
 
 #- name: Python
 #  i18n: cpython

@@ -20,7 +20,7 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "jalpc": "This project is my project. I used the Jalpc repo that combines Jekyll and CSS and YAML",
     "cpython": "This project is other's project. I use another request to get repo's information.",
     "familycode": "This is another project."
   },
