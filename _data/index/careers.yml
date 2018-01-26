@@ -4,8 +4,7 @@
     detail: Allegheny College
     i18n: company_a
   desc:
-    detail: I work as a Teacher's Assistant while attending Allegheny College. I attend laboratory sessions in which I assist students with any complications they may have.
-    I hold office hours weekly in which students can come and get extra assitance.
+    detail: I work as a Teacher's Assistant while attending Allegheny College. I attend laboratory sessions in which I assist students with any complications they may have. I hold office hours weekly in which students can come and get extra assitance.
     i18n: company_a_desc
   date:
     detail: Sept. 2016 - Present
@@ -34,8 +33,7 @@
     detail: iDTech
     i18n: company_b
   desc:
-    detail: At iDTech I was an instructor that was hired to teach Java to children ages 13-17. I developed a curriculum which consisted of Arrays, Functions, Data Types and taught about 10 students a week.
-    I was then asked to teach C++ and quickly adapted to my new role and excelled.
+    detail: At iDTech I was an instructor that was hired to teach Java to children ages 13-17. I developed a curriculum which consisted of Arrays, Functions, Data Types and taught about 10 students a week. I was then asked to teach C++ and quickly adapted to my new role and excelled.
     i18n: company_b_desc
   date:
     detail: Jun. 2015 - Aug.2015
