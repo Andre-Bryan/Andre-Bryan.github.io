@@ -30,9 +30,3 @@
   tpl: blog.html
   page: blog/
   css: testimonials navy-section
-
-- id: Contact
-  i18n: nav.contact
-  name: Resume
-  tpl: links.html
-  css: contant
