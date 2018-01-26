@@ -33,6 +33,6 @@
 
 - id: Contact
   i18n: nav.contact
-  name: Contact
+  name: Resume
   tpl: links.html
   css: contant
