@@ -18,8 +18,7 @@
     detail: Cryopak
     i18n: company_b
   desc:
-    detail: During my time at Cropak I worked on their Project Tracking Database. I did a lot of front end development with JavaFX with a bit of Java development to extract data from the fields.
-    When printers had errors and when a new computer was bought I also set it up.
+    detail: During my time at Cropak I worked on their Project Tracking Database. I did a lot of front end development with JavaFX with a bit of Java development to extract data from the fields. When printers had errors and when a new computer was bought I also set it up.
     i18n: company_b_desc
   date:
     detail: May 2016 - Aug. 2016
