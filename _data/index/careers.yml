@@ -4,7 +4,8 @@
     detail: Allegheny College
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I work as a Teacher's Assistant while attending Allegheny College. I attend laboratory sessions in which I assist students with any complications they may have.
+    I hold office hours weekly in which students can come and get extra assitance.
     i18n: company_a_desc
   date:
     detail: Sept. 2016 - Present
@@ -18,26 +19,28 @@
     detail: Cryopak
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: During my time at Cropak I worked on their Project Tracking Database. I did a lot of front end development with JavaFX with a bit of Java development to extract data from the fields.
+    When printers had errors and when a new computer was bought I also set it up.
     i18n: company_b_desc
   date:
     detail: May 2016 - Aug. 2016
     i18n: company_b_date
   job:
-    detail: Software Engineer & Information Technology
+    detail: Software Engineer/Information Technology
     i18n: company_b_job
   icon: fa-plus-square
-  
+
 - name:
     detail: iDTech
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: At iDTech I was an instructor that was hired to teach Java to children ages 13-17. I developed a curriculum which consisted of Arrays, Functions, Data Types and taught about 10 students a week.
+    I was then asked to teach C++ and quickly adapted to my new role and excelled.
     i18n: company_b_desc
   date:
     detail: Jun. 2015 - Aug.2015
     i18n: company_b_date
   job:
-    detail: C++ & Java Instructor
+    detail: C++/Java Instructor
     i18n: company_b_job
   icon: fa-plus-square
