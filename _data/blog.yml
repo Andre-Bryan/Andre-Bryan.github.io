@@ -9,14 +9,14 @@
 - name: Linux
   href: /linux/
 
-- name: Cyber Security
-  href: /cyber security/
+- name: CyberSecurity
+  href: /cybersecurity/
 
 - name: Algorithms
   href: /algorithms/
 
-- name: Machine Learning
-  href: /machine learning/
+- name: MachineLearning
+  href: /machinelearning/
 
 - name: Life
   href: /life/
