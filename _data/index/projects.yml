@@ -5,7 +5,7 @@
   i18n: jalpc
   gh_user: Andre-Bryan
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I used the Jalpc repo that combines Jekyll and CSS and YAML.
+  desc: Created using the Jalpc repo that combines Jekyll and CSS and YAML.
 
 #- name: Python
 #  i18n: cpython
